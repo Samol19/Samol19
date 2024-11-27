@@ -46,7 +46,7 @@
 
 
 
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/Samol19/Samol19/refs/heads/main/keyboard-cat-transp2.gif"></a>
+<a target="_blank"><img align="right" height="300" width="300" alt="𝙶𝙸𝙵" src="https://raw.githubusercontent.com/Samol19/Samol19/refs/heads/main/keyboard-cat-transp2.gif"></a>
 <br/>
 
 ### 👩‍💻 &nbsp;Programming Languages
