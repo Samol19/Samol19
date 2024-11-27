@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently studying **Computer Science at Universidad Peruana de Ciancias Aplicadas (UPC).**
+- 🔭 I’m currently studying **Computer Science at Universidad Peruana de Ciencias Aplicadas (UPC).**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Artificial Intelligence, Backend Arquitectures and Entertainment Software**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](paredessamuel19@gmail.com) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 🌐 &nbsp;My english level is B2 in Linguaskill.
@@ -20,7 +20,13 @@
 <br/>
 <br/>
 
+### 🤝🏻 &nbsp;Connect with Me
 
+<p align="center">
+<a href="https://www.linkedin.com/in/samuel-p-816b43329/"><img src="https://img.shields.io/badge/-Samuel%20Paredes%20Espinoza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:paredessamuel19@gmail.com"><img src="https://img.shields.io/badge/-paredessamuel19@gmail.com@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/samool_n/"><img src="https://img.shields.io/badge/-samool_n-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
 
 
 <p align="center">
