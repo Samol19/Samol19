@@ -23,18 +23,18 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/samuel-p-816b43329/"><img src="https://img.shields.io/badge/-Samuel%20Paredes%20Espinoza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:paredessamuel19@gmail.com"><img src="https://img.shields.io/badge/-paredessamuel19@gmail.com@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/samuel-p-816b43329/"><img src="https://img.shields.io/badge/-Samuel%20Paredes-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:paredessamuel19@gmail.com"><img src="https://img.shields.io/badge/-paredessamuel19@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/samool_n/"><img src="https://img.shields.io/badge/-samool_n-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 
 <p align="center">
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=GovindSingh9447&style=flat&color=blue"> •   
-  <a href="https://user-badge.committers.top/india_private/GovindSingh9447"><img src="https://user-badge.committers.top/india_private/GovindSingh9447.svg"></a> •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/GovindSingh9447?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/GovindSingh9447?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  <a href="https://github.com/sponsors/GovindSingh9447"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Samol19&style=flat&color=blue"> •   
+  <a href="https://user-badge.committers.top/india_private/Samol19"><img src="https://user-badge.committers.top/india_private/GovindSingh9447.svg"></a> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Samol19?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/Samol19?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+  <a href="https://github.com/sponsors/Samol19"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
 
 
