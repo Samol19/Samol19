@@ -23,7 +23,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/samuel-p-816b43329/"><img src="https://img.shields.io/badge/-Samuel%20Paredes-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/fernando-samuel-paredes-espinoza-7ab96633b9/"><img src="https://img.shields.io/badge/-Samuel%20Paredes-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:paredessamuel19@gmail.com"><img src="https://img.shields.io/badge/-paredessamuel19@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/samool_n/"><img src="https://img.shields.io/badge/-samool_n-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
